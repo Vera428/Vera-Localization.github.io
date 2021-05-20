@@ -1,0 +1,23 @@
+ .logo {
+        color: green;
+        font-size: 22px;
+      }
+      .book {
+          height: 200px;
+          display: block;
+          margin: auto;
+      }
+      .musician {
+          width: 120px;
+          height: 120px;
+          display: block;
+          margin: auto;
+          border-radius: 10px;
+      }
+
+      .green {
+          color: green;
+      }
+
+      .cate:hover {
+        background-color: #eee;
